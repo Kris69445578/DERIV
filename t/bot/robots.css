@@ -1,0 +1,6 @@
+.jt-robots{padding:16px;height:calc(100vh - 150px);overflow:auto;background:#0d1530;color:#dfe6ff;font-family:inherit}
+.jt-robots h2{margin:0 0 12px;letter-spacing:2px;color:#fff}.jt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.jt-card{background:#1e2646;border:1px solid #2f3a6b;border-radius:10px;padding:16px}.jt-card h3{margin:0 0 8px;font-size:15px;color:#fff}
+.jt-tags span{font:11px monospace;padding:2px 7px;border-radius:4px;margin-right:6px}.t1{background:#4a3a10;color:#f4c542}.t2{background:#2d2a6e;color:#9d8cff}.t3{color:#3ddc97}
+.jt-card p{font-size:13px;line-height:1.5;color:#b7c0e6}.jt-act{display:flex;justify-content:space-between;margin-top:10px}
+.jt-act button{cursor:pointer;border-radius:6px;padding:8px 18px;border:1px solid #3b4680;background:#222b55;color:#cbd3ff}.jt-sel{border-color:#6f5cf0!important;color:#a99cff!important}
